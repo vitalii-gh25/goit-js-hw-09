@@ -1,8 +1,12 @@
-.back-link {
+.gallery {
   position: relative;
-  display: inline-block;
+}
+
+.back-link {
+  position: absolute;
+  top: 85%;
+  left: 20%;
   padding: 4px 8px;
-  margin-top: 32px;
   border: 1px solid;
   border-radius: 8px;
 }
